@@ -1,5 +1,7 @@
 # EVOptiCharge - AI-Powered EV Charging Network Optimization Platform
 
+## It's my Sample Website. Contact Me For Making one For You.
+
 ## Overview
 
 EVOptiCharge is a dynamic website showcasing an AI-driven platform designed to optimize electric vehicle (EV) charging networks. The platform uses machine learning to predict demand, optimize station placement, implement dynamic pricing, and improve overall charging infrastructure efficiency.
@@ -88,16 +90,14 @@ This project is open-source and available under the MIT License.
 *Features grid with hover effects*
 
 ![How It Works](https://github.com/user-attachments/assets/b5338235-80f1-490c-be49-de5d0d6f0c1d)
-*its Working*
+*Workings Path*
 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
 ## Contact
+Visit Github Profile for contact information
 
-For questions or suggestions, please open an issue on GitHub.
-
----
-
-**Note**: This is a frontend demonstration website. For a fully functional version with backend integration, additional development would be required.
+## Copyrights
+All Copyrights are reserved by Aditya Nanaware
