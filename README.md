@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9d50f6c3-7998-470f-a20d-7f852595d508)# EVOptiCharge - AI-Powered EV Charging Network Optimization Platform
+# EVOptiCharge - AI-Powered EV Charging Network Optimization Platform
 
 ## Overview
 
@@ -81,14 +81,14 @@ This project is open-source and available under the MIT License.
 
 ## Screenshots
 
-![Hero Section](screenshots/hero.png)
+![Hero Section](https://github.com/user-attachments/assets/b68b6a62-2c22-4ffd-8a4f-56f662156560)
 *Hero section with animated particles*
 
-![Features Section](screenshots/features.png)
+![Features](https://github.com/user-attachments/assets/d2e7eb8d-a3fa-401e-ad51-6a085d5cdf59)
 *Features grid with hover effects*
 
-![Dashboard Preview](screenshots/dashboard.png)
-*Interactive dashboard preview*
+![How It Works](https://github.com/user-attachments/assets/b5338235-80f1-490c-be49-de5d0d6f0c1d)
+*its Working*
 
 ## Contributing
 
